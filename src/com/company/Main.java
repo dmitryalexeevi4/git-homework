@@ -7,6 +7,6 @@ public class Main {
     }
 
     private static void test() {
-        System.out.print("Nothing important");
+        System.out.println("Nothing important");
     }
 }
